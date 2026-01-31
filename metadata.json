@@ -1,0 +1,5 @@
+{
+  "name": "AskMyNotes - AI Study Assistant",
+  "description": "An intelligent study tool that analyzes student notes using curated datasets to provide simple explanations, concise summaries, and exam-ready questions.",
+  "requestFramePermissions": []
+}
